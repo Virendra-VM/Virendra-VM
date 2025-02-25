@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Virendra-VM
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and python
-- 💞️ I’m looking to collaborate on Web project
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning python (Seaborn, Matplotlib, Pandas)
+- 💞️ I’m looking to collaborate on Data Analyst Projects
 - 📫 How to reach me https://www.instagram.com/_mohite_virendra_/
 
 <!---
